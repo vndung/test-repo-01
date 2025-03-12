@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com-vndung/vndung/test-repo-01/compare/v1.0.1...v2.0.0) (2025-03-12)
+
+
+### Features
+
+* change 2 ([c1bd70d](https://github.com-vndung/vndung/test-repo-01/commit/c1bd70d1f5751bc63ac105d7624413bb5dd56606))
+
+
+### BREAKING CHANGES
+
+* change 222
+
 ## [1.0.1](https://github.com-vndung/vndung/test-repo-01/compare/v1.0.0...v1.0.1) (2025-03-12)
 
 
