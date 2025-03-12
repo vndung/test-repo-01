@@ -1,3 +1,17 @@
+## [2.0.1](https://github.com-vndung/vndung/test-repo-01/compare/v2.0.0...v2.0.1) (2025-03-12)
+
+
+### Bug Fixes
+
+* add commitlint ([9f6e797](https://github.com-vndung/vndung/test-repo-01/commit/9f6e797a15454310b4f42f75bbec6eb91a6395f5))
+
+## [2.0.1](https://github.com-vndung/vndung/test-repo-01/compare/v2.0.0...v2.0.1) (2025-03-12)
+
+
+### Bug Fixes
+
+* add commitlint ([9f6e797](https://github.com-vndung/vndung/test-repo-01/commit/9f6e797a15454310b4f42f75bbec6eb91a6395f5))
+
 # [2.0.0](https://github.com-vndung/vndung/test-repo-01/compare/v1.0.1...v2.0.0) (2025-03-12)
 
 
