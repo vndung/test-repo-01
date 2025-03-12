@@ -1,13 +1,13 @@
 {
   "name": "semantic-release-example",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:vndung/test-repo-01.git"
+    "url": "git@github.com-vndung:vndung/test-repo-01.git"
   },
   "private": true,
   "keywords": [],
