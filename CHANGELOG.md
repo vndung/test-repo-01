@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com-vndung/vndung/test-repo-01/compare/v2.0.1...v2.0.2) (2025-03-12)
+
+
+### Bug Fixes
+
+* add config ([cc7ae06](https://github.com-vndung/vndung/test-repo-01/commit/cc7ae06eb64528869dafd654fdbf46602eac20a6))
+
 ## [2.0.1](https://github.com-vndung/vndung/test-repo-01/compare/v2.0.0...v2.0.1) (2025-03-12)
 
 
